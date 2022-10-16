@@ -8,7 +8,8 @@
       "experimentalObjectRestSpread": true,
       "impliedStrict": true,
       "classes": true
-    }
+    },
+    "presets": ["@babel/preset-react"]
   },
   "env": {
     "browser": true,
