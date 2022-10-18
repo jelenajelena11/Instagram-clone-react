@@ -18,6 +18,7 @@ module.exports = {
         base: "#616161",
         background: "#fafafa",
         primary: "#dbdbdb",
+        light: "#b7b7b7",
       },
       red: {
         primary: "#ed4956",
